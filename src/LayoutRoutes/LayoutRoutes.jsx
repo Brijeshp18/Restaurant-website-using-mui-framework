@@ -15,7 +15,7 @@ function LayoutRoutes() {
       <Router>
         <Header />
         <Routes>
-          <Route path="/" element={<Home />} />
+          <Route path="/Restaurant-website-using-mui-framework" element={<Home />} />
           <Route path="/Restaurant-website-using-mui-framework" element={<Home />} />
           <Route path="/dishes" element={<Dishes />} />
           <Route path="/services" element={<Booking />} />
