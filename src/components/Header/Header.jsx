@@ -2,7 +2,7 @@ import React, { useState } from 'react'
 import {styled} from '@mui/system';
 import { Box,Typography } from '@mui/material'
 import Custombutton from './custombutton/Custombutton';
-import logoImage from '../../assets/logo.png'
+import logoImage from '../../assets/foodlogoo.png'
 
 import FeaturedPlayListIcon from '@mui/icons-material/FeaturedPlayList';
 import MiscellaneousServicesIcon from '@mui/icons-material/MiscellaneousServices';
@@ -110,7 +110,7 @@ function Header() {
 
     ));
     const NavBarLogo =styled("img")(({theme})=>(
-        {
+        {   width:"29px",
             cursor:"pointer",
             [theme.breakpoints.down("md")]:{
                 display:"none",
