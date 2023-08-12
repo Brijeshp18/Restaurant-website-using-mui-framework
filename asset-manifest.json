@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Restaurant-website-using-mui-framework/static/css/main.aa5191b0.css",
-    "main.js": "/Restaurant-website-using-mui-framework/static/js/main.4ab4d9fb.js",
+    "main.js": "/Restaurant-website-using-mui-framework/static/js/main.ce304434.js",
     "static/js/787.26da9b02.chunk.js": "/Restaurant-website-using-mui-framework/static/js/787.26da9b02.chunk.js",
     "static/media/welcome.png": "/Restaurant-website-using-mui-framework/static/media/welcome.723e52d36732126fa795.png",
     "static/media/ambience.jpg": "/Restaurant-website-using-mui-framework/static/media/ambience.8b318e0aa2b30e0a977d.jpg",
@@ -13,11 +13,11 @@
     "static/media/DeliveryImg.png": "/Restaurant-website-using-mui-framework/static/media/DeliveryImg.0fbebbdbfc53d67bdd8f.png",
     "index.html": "/Restaurant-website-using-mui-framework/index.html",
     "main.aa5191b0.css.map": "/Restaurant-website-using-mui-framework/static/css/main.aa5191b0.css.map",
-    "main.4ab4d9fb.js.map": "/Restaurant-website-using-mui-framework/static/js/main.4ab4d9fb.js.map",
+    "main.ce304434.js.map": "/Restaurant-website-using-mui-framework/static/js/main.ce304434.js.map",
     "787.26da9b02.chunk.js.map": "/Restaurant-website-using-mui-framework/static/js/787.26da9b02.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.aa5191b0.css",
-    "static/js/main.4ab4d9fb.js"
+    "static/js/main.ce304434.js"
   ]
 }
